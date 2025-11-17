@@ -1,4 +1,4 @@
-# Rekomendasi_Karir 
+# Rekomendasi_Karir
 - tentang aplikasi 
 Aplikasi Rekomendasi Karir di ciptakan untuk mengatasi masalah kebingungan karir yang di alami beberapa siswa, terutama SMK. Aplikasi ini bertujuan untuk mempercepat, mengarahkan, dan mempermudah proses pencarian kecocokan karir bagi lulusan baru yang akan memasuki dunia kerja.
 
