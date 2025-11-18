@@ -1,21 +1,19 @@
-# Rekomendasi_Karir
-- tentang aplikasi 
-Aplikasi Rekomendasi Karir di ciptakan untuk mengatasi masalah kebingungan karir yang di alami beberapa siswa, terutama SMK. Aplikasi ini bertujuan untuk mempercepat, mengarahkan, dan mempermudah proses pencarian kecocokan karir bagi lulusan baru yang akan memasuki dunia kerja.
+🎯 Aplikasi Rekomendasi Karir
 
-- Fitur Utama 
-1. pencocokan langsung mempermudah penemuan pekerjaan yang cocok melalui pencocokan langsung antara jurusan, skill, pengalaman dan preferensi kerja.
-2. Presentase kecocokan menampilkan presentase sebagai dasar mengapa pekerjaan direkomendasikan 
-3. Fitur history memungkinkan pengguna untuk menyimpan dan meninjau rekomendasi terakhir tanpa perlu mengisi ulang data dari awal, terdapat icon sampah untuk menghapusnya.
-1. Halaman utama
-- Di layar awal, pengguna akan melihat judul “Rekomendasi Karir”.
-- Ada dua pilihan: Lihat "History Tersimpan" dan "Mulai Form Baru". Jika belum pernah mengisi, halaman history akan kosong. 
-- Masuk ke menu "Mulai Form Baru"
+📘 Tentang Aplikasi
+Aplikasi Rekomendasi Karir dibuat untuk membantu siswa, terutama tingkat SMK yang masih bingung menentukan arah karir. Aplikasi ini bertujuan untuk mempercepat, mempermudah, dan mengarahkan proses pencarian kecocokan karir berdasarkan jurusan, keterampilan, pengalaman, dan preferensi kerja pengguna.
 
-2. Halaman Kualifikasi Akademik
-- Pengguna dapat memilih jurusan yang sesuai dengan jurusan pengguna. terdapat 4 jurusan yang tersedia, antara lain : Agribisnis Pengolahan Hasil Perikanan, Teknik Komputer dan Jaringan, Teknik Kendaraan Ringan, Dan Teknik Instalasi Listrik
-- Pengguna dapat memilih tahun lulus dan pendidikan terakhir.
-- Tersedia tombol Kembali dan Selanjutnya jika pengguna ingin pindah halaman.
+✨ Fitur Utama
 
-3. Halaman Keterampilan Teknis (Hard Skill)
-- Pengguna bisa mencentang skill yang di miliki dari 5 pilihan skill yang tersedia (bisa memilih lebih dari 1), skill yang di tampilkan akan sesuai dengan jurusan yang sudah di pilih. 
-- Pengguna juga dapat menambahkan skill lain di kolom "Keterampilan Tambahan Lainnya" secara manual jika ada skill yang ingin di tambahkan.
+1. 🔍 Pencocokan Langsung
+Sistem otomatis mencocokkan jurusan, skill, pengalaman, dan preferensi untuk menemukan pilihan karir yang paling sesuai.
+
+2. 📊 Persentase Kecocokan
+Menampilkan persentase kecocokan sebagai dasar mengapa suatu pekerjaan direkomendasikan.
+
+3. 🗂️ History Rekomendasi
+Menyimpan rekomendasi terakhir agar pengguna tidak perlu mengisi ulang data.
+Dilengkapi dengan ikon  sampah (🗑️) untuk mengelola riwayat.
+
+🚀 Panduan Penggunaan 
+Pengguna cukup memilih Mulai Form Baru, kemudian mengisi jurusan, tahun lulus, dan pendidikan terakhir. Setelah itu, pilih atau tambahkan skill yang dimiliki. Jika semua data sudah diisi, aplikasi akan langsung menampilkan rekomendasi karir beserta persentase kecocokan. History hasil sebelumnya juga dapat dilihat atau dihapus kapan saja.
