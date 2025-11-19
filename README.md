@@ -17,12 +17,12 @@ Dilengkapi dengan ikon  sampah (🗑️) untuk mengelola riwayat.
 
 🚀 Cara Menggunakan Aplikasi
 
-▶️ Mulai Form Baru dari halaman utama.
-🎓 Isi jurusan, tahun lulus, dan pendidikan terakhir.
-🛠️ Pilih atau tambahkan skill yang dimiliki.
-💼 Pilih pengalaman kerja (fresh graduate, pernah magang, <1 tahun, atau 1–3 tahun).
-🧭 Pilih preferensi pekerjaan (full time atau part time).
-📥 Gunakan tombol Selanjutnya hingga akhir.
+▶️ Mulai Form Baru Dari Halaman Utama
+🎓 Isi jurusan, Tahun lulus, dan Pendidikan terakhir
+🛠️ Pilih atau tambahkan skill yang di miliki
+💼 Pilih pengalaman kerja yang tersedia
+🧭 Pilih preferensi pekerjaan
+📥 Gunakan tombol selanjutnya hingga akhir
 
-🎯 Di halaman terakhir, tekan Lihat Rekomendasi untuk menampilkan karir yang cocok beserta persentasenya.
-🗂️ Cek history kapan saja atau 🗑️ hapus jika ingin mengelola riwayat.
+🎯 Di halaman terakhir, tekan tombol Lihat Rekomendasi untuk menampilkan karir yang cocok beserta presentasenya
+🗂️ Cek history kapan saja, atau hapus (🗑️) jika ingin mengelola riwayat
