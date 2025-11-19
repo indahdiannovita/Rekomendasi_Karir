@@ -15,5 +15,14 @@ Menampilkan persentase kecocokan sebagai dasar mengapa suatu pekerjaan direkomen
 Menyimpan rekomendasi terakhir agar pengguna tidak perlu mengisi ulang data.
 Dilengkapi dengan ikon  sampah (🗑️) untuk mengelola riwayat.
 
-🚀 Panduan Penggunaan 
-Pengguna cukup memilih Mulai Form Baru, kemudian mengisi jurusan, tahun lulus, dan pendidikan terakhir. Setelah itu, pilih atau tambahkan skill yang dimiliki. Jika semua data sudah diisi, aplikasi akan langsung menampilkan rekomendasi karir beserta persentase kecocokan. History hasil sebelumnya juga dapat dilihat atau dihapus kapan saja.
+🚀 Cara Menggunakan Aplikasi
+
+▶️ Mulai Form Baru dari halaman utama.
+🎓 Isi jurusan, tahun lulus, dan pendidikan terakhir.
+🛠️ Pilih atau tambahkan skill yang dimiliki.
+💼 Pilih pengalaman kerja (fresh graduate, pernah magang, <1 tahun, atau 1–3 tahun).
+🧭 Pilih preferensi pekerjaan (full time atau part time).
+📥 Gunakan tombol Selanjutnya hingga akhir.
+
+🎯 Di halaman terakhir, tekan Lihat Rekomendasi untuk menampilkan karir yang cocok beserta persentasenya.
+🗂️ Cek history kapan saja atau 🗑️ hapus jika ingin mengelola riwayat.
